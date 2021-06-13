@@ -1,3 +1,3 @@
-VER=17+26
+VER=17+32
 SRCS="tbl::https://github.com/openjdk/jdk17/archive/refs/tags/jdk-$VER.tar.gz"
-CHKSUMS="sha256::a00f8cf0c1edbefb767bce893a74b170478cb9bf152224b215aa59e7b431079c"
+CHKSUMS="sha256::a5082f3bebd59b7297c867438efa3f61743418495b56df498519bd53987f0baf"
