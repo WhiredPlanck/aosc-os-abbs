@@ -1,0 +1,3 @@
+VER=0.1.0~alpha.1+git20210720
+SRCS="git::commit=271466d9e07e72a149b347e9344984471dea343d::https://github.com/AOSC-Dev/p-vector-rs.git"
+CHKSUMS="SKIP"
